@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Tristan Silba-Loebnitz -- creator -- fuck twitter
+
+# THANKS
+
+    Me, myself and I.
+
+# TECHNOLOGY COLOPHON
+
+    HTML5
